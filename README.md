@@ -6,7 +6,7 @@ I have used JSON file system in which we can perform various operations.
 1)Product Name, 2)Product Category, 3)Product Quantity, 4)Product Price, 5)Purchase Date
 
 # My project have these functions:
-1) Generate Bills, 2)Update Inentory, 3) Purchase for Customer, 4)Add New Items to Inventory
+ 1) Generate Bills, 2)Update Inentory, 3) Purchase for Customer, 4)Add New Items to Inventory
 
 # ABOUT AUTHOR:
  My name is ISHA MISHRA ,studying in Bharati Vidyapeeth college of engineering for women 
