@@ -5,7 +5,7 @@ I have used JSON file system in which we can perform various operations.
 # Here I added 5 features per product:
 1)Product Name, 2)Product Category, 3)Product Quantity, 4)Product Price, 5)Purchase Date
 
-# My project hae these functions:
+# My project have these functions:
 1) Generate Bills, 2)Update Inentory, 3) Purchase for Customer, 4)Add New Items to Inventory
 
 # ABOUT AUTHOR:
