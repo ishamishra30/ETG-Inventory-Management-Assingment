@@ -13,7 +13,7 @@ I have used JSON file system in which we can perform various operations.
  In INFORMATION TECHNOLOGY(IT) department. Completed 2nd year of engineering ,currently in 3rd year.
  
 # ABOUT FEATURES:
-In this inventory,I basically used dictionary, lists,dumps,loads,etc to perform operations on this record. Also used file handling concept using python language.
+Here I basically used dictionary, lists,dumps,loads,etc to perform operations on this inventory. Also used file handling concept using python language.
 Here i created a record of 30 products which includes tv,mobile and laptops,which has 5 attributes: name, category ,quantity,price and purchasing date.
 There are 3 files generated at the end.
  code_file.ipynb: in this file code for adding new item and purchase information of customer is there
