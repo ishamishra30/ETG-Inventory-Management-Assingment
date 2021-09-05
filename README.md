@@ -9,8 +9,8 @@ I have used JSON file system in which we can perform various operations.
 1) Generate Bills, 2)Update Inentory, 3) Purchase for Customer, 4)Add New Items to Inventory
 
 # ABOUT AUTHOR:
- My name is ISHA MISHRA,studying in Bharati Vidyapeeth college of engineering for women,Pune
- In INFORMATION TECHNOLOGY(IT) department. Completed 2nd year of engineering ,currently in 3rd year.
+ My name is ISHA MISHRA ,studying in Bharati Vidyapeeth college of engineering for women 
+ in INFORMATION TECHNOLOGY(IT) department. Completed 2nd year of engineering ,currently in 3rd year.
  
 # ABOUT FEATURES:
 Here I basically used dictionary, lists,dumps,loads,etc to perform operations on this inventory. Also used file handling concept using python language.
