@@ -1,4 +1,4 @@
-# ETG-Inventory-Management-Assignment
+# Inventory-Management
 This repository has all codes with JSON files for making inventory management system based on No-sql  database during ETG internship
 Made an inventory management system which is working on NoSQL based database.
 I have used JSON file system in which we can perform various operations.
